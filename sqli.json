@@ -1,7 +1,6 @@
 {
     "flags": "-iE",
-     "patterns": [
-
+    "patterns": [
         "&id=",
         "\\?id=",
         "_id=",
@@ -44,7 +43,6 @@
         "file_name=",
         "file_path=",
         "file_type=",
-        "filter="
         "filter=",
         "first=",
         "from=",
@@ -126,10 +124,6 @@
         "search_params=",
         "search_pattern1=",
         "search_pattern2=",
-        "search_pattern3=",
-        "search_pattern4=",
-        "search_pattern5=",
-        "search_pattern=",
         "search_query1=",
         "search_query2=",
         "search_query=",
@@ -175,5 +169,5 @@
         "column=",
         "\\?id=",
         "_id="
-]
+      ]
 }
